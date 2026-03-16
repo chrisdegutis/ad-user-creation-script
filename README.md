@@ -13,5 +13,5 @@ The PowerShell script used in this lab can be found in a separate repository:
 </p>
 
 <p>
-Using PowerShell to automate user creation demonstrates how administrators manage large numbers of accounts efficiently in enterprise environments instead of creating users manually.
+Using PowerShell ISE to automate user creation demonstrates how administrators manage large numbers of accounts efficiently in enterprise environments instead of creating users manually.
 </p>
