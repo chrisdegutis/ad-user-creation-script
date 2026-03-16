@@ -9,7 +9,7 @@ The PowerShell script used in this lab can be found in a separate repository:
 </p>
 
 <p>
-<a href="https://github.com/chrisdegutis/ad-user-creation-script/blob/main/create-ad-users.ps1">View the Bulk User Creation Script</a>
+<a href="https://github.com/chrisdegutis/ad-user-creation-script/blob/main/create-active-directory-employees.ps1">View the Bulk User Creation Script</a>
 </p>
 
 <p>
